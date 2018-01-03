@@ -2,7 +2,7 @@
 Présentations réalisées lors de formation sur la gestion dynamique de la biodiversité cultivée dans les
 Maisons des Semences Paysannes en réseau
 
-## Sélection décentralisée et collaborative en réseau. Exemple des céréales: 
+## Sélection décentralisée et collaborative en réseau. Exemple des céréales
 Support de formation téléchargeable [ici](https://github.com/priviere/formations_MSP/releases/download/v1/formation_A_presentation_cereales.pdf).
 
 Durée: Entre 1 et 2 jours
